@@ -1,3 +1,13 @@
 
 *.pdsbak
 *.workspace
+*.json
+*.o
+*.cpp
+*.cache
+*.d
+bin/dc_motor.ino.with_bootloader.hex
+*.elf
+*.a
+*.eep
+*.hex
