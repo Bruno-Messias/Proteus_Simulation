@@ -11,3 +11,7 @@ bin/dc_motor.ino.with_bootloader.hex
 *.a
 *.eep
 *.hex
+test.imz
+Test2.IMA
+test3.imz
+test4.IMA
